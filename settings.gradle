@@ -1,0 +1,5 @@
+include ':login'
+include ':app'
+include ':common'
+include ':mine'
+rootProject.name = "ZuJian"
